@@ -17,3 +17,8 @@ gcc -v
 
 g++ -v
 ```
+
+
+---
+
+https://code.visualstudio.com/docs/languages/cpp
